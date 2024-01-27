@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/nijee107
 [youtube]: https://www.youtube.com/c/@cdataprep
 [instagram]: https://www.instagram.com/ncdataprep/
-[linkedin]: https://www.linkedin.com/in/nigel-cooper-937b5a23/
+[linkedin]: https://www.linkedin.com/in/nigelrcooper/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
