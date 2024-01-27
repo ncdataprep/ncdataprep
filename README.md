@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nigel! <br/><a href="https://github.com/joshmadakor1">Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AWS Cloud Computing Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Nigel! <br/><a href="https://github.com/joshmadakor1">Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">AWS Cloud Computing apprentice</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cloud Practitioner Projects:</h2>
 
